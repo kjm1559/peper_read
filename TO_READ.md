@@ -15,6 +15,8 @@
     - Reflexion: Language Agents with
 Verbal Reinforcement Learning
         - The concept of Reflexion
+    - Positional Encoding Helps Recurrent Neural Networks Handle a Large Vocabulary
+        - canonical sinusoidal positional encoding
 - RL
     - Wang, Yinuo, et al. "ODE-based Smoothing Neural Network for Reinforcement Learning Tasks." The Thirteenth International Conference on Learning Representations.
         - Using ODE, makes the method of reinforcement learning.
