@@ -1,0 +1,24 @@
+- LLM
+    - Press, Ofir, Noah A. Smith, and Mike Lewis. "Train short, test long: Attention with linear biases enables input length extrapolation." _arXiv preprint arXiv:2108.12409_ (2021).
+        - Attention with Linear Biases(ALiBi) : Expandable position embedding
+    - Micikevicius, Paulius, et al. "Mixed precision training." arXiv preprint arXiv:1710.03740 (2017).
+        - To enhance performance reduce floating point size FP32 -> FP16
+    - van de Ven, Gido M., Nicholas Soures, and Dhireesha Kudithipudi. "Continual learning and catastrophic forgetting." arXiv preprint arXiv:2403.05175 (2024).
+        - incrementally learning
+    - Xu, Binfeng, et al. "Rewoo: Decoupling reasoning from observations for efficient augmented language models." arXiv preprint arXiv:2305.18323 (2023).
+        - ReWOO (Reasoning WithOut Observation)
+        - Make Planer, Worker and Solver, process the task.
+    - Nie, Shen, et al. "Large language diffusion models." arXiv preprint arXiv:2502.09992 (2025).
+        - The LLM model using diffussion
+    - Zhang, Yanzhao, et al. "Qwen3 Embedding: Advancing Text Embedding and Reranking Through Foundation Models." arXiv preprint arXiv:2506.05176 (2025).
+        - Qwen3 embedding model
+    - Reflexion: Language Agents with
+Verbal Reinforcement Learning
+        - The concept of Reflexion
+- RL
+    - Wang, Yinuo, et al. "ODE-based Smoothing Neural Network for Reinforcement Learning Tasks." The Thirteenth International Conference on Learning Representations.
+        - Using ODE, makes the method of reinforcement learning.
+
+- Image processing
+    - Yue, Yubiao, and Zhenzhang Li. "Medmamba: Vision mamba for medical image classification." arXiv preprint arXiv:2403.03849 (2024).
+        - classify MedMNIST using Mamba
