@@ -17,10 +17,14 @@ Verbal Reinforcement Learning
         - The concept of Reflexion
     - Positional Encoding Helps Recurrent Neural Networks Handle a Large Vocabulary
         - canonical sinusoidal positional encoding
+    - Liu, Weiwen, et al. "Toolace: Winning the points of llm function calling." arXiv preprint arXiv:2409.00920 (2024).
+        - 
 - RL
     - Wang, Yinuo, et al. "ODE-based Smoothing Neural Network for Reinforcement Learning Tasks." The Thirteenth International Conference on Learning Representations.
         - Using ODE, makes the method of reinforcement learning.
 
-- Image processing
+- Vision
     - Yue, Yubiao, and Zhenzhang Li. "Medmamba: Vision mamba for medical image classification." arXiv preprint arXiv:2403.03849 (2024).
         - classify MedMNIST using Mamba
+    - Wang, Feng, et al. "Mamba-Reg: Vision Mamba Also Needs Registers." Proceedings of the Computer Vision and Pattern Recognition Conference. 2025.
+        - 

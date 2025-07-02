@@ -1,0 +1,18 @@
+- IMAGE AND VISION COMPUTING
+    - impact factor : 4.2
+    - publication fee : 0 or usd 2,100
+- IET COMPUTER VISION
+    - impact factor : 1.7
+    - publication fee : usd 2,420
+- IMAGE ANALYSIS & STEREOLOGY
+    - impact factor : 1.0
+    - publication fee : usd 236
+- IEEE COMPUTER ARCHITECTURE LETTERS
+    - impact factor : 1.4
+    - publication fee : 0 or usd 2,345
+- IEEE TRANSACTIONS ON PATTERN ANALYSIS AND MACHINE INTELLIGENCE
+    - impact factor : 18.6
+    - publication fee : 0 or usd 2,345
+- INTERNATIONAL JOURNAL OF PATTERN RECOGNITION AND ARTIFICIAL INTELLIGENCE
+    - impact factor : 1.1
+    - pulication fee : 0 or usd 2,200
