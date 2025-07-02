@@ -19,6 +19,8 @@ Verbal Reinforcement Learning
         - canonical sinusoidal positional encoding
     - Liu, Weiwen, et al. "Toolace: Winning the points of llm function calling." arXiv preprint arXiv:2409.00920 (2024).
         - 
+    - Kudugunta, Sneha, et al. "Matformer: Nested transformer for elastic inference." arXiv preprint arXiv:2310.07707 (2023).
+        - ?
 - RL
     - Wang, Yinuo, et al. "ODE-based Smoothing Neural Network for Reinforcement Learning Tasks." The Thirteenth International Conference on Learning Representations.
         - Using ODE, makes the method of reinforcement learning.
