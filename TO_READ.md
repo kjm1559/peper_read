@@ -18,9 +18,12 @@ Verbal Reinforcement Learning
     - Positional Encoding Helps Recurrent Neural Networks Handle a Large Vocabulary
         - canonical sinusoidal positional encoding
     - Liu, Weiwen, et al. "Toolace: Winning the points of llm function calling." arXiv preprint arXiv:2409.00920 (2024).
-        - 
+        - hh
     - Kudugunta, Sneha, et al. "Matformer: Nested transformer for elastic inference." arXiv preprint arXiv:2310.07707 (2023).
-        - ?
+        - Make nested FFN using structure of matryoshka.
+    - Lopez-Cardona, Angela, et al. "Seeing Eye to AI: Human Alignment via Gaze-Based Response Rewards for Large Language Models." arXiv preprint arXiv:2410.01532 (2024).    
+        - The way of reward by tracking gaze
+
 - RL
     - Wang, Yinuo, et al. "ODE-based Smoothing Neural Network for Reinforcement Learning Tasks." The Thirteenth International Conference on Learning Representations.
         - Using ODE, makes the method of reinforcement learning.
